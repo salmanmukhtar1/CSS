@@ -1,0 +1,23 @@
+h1{
+            color: red;
+        }  
+        #tailwind{
+            color: blue;
+        }
+
+
+
+        .centered_text{
+            text-align: center;
+        }
+
+
+        *{
+background-color: yellow;
+        }
+
+
+
+        div{
+color: blue;
+        }
