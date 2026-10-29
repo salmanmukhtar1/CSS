@@ -1,0 +1,9 @@
+body { 
+    background-color: blue;
+    color: #fff;
+    background-image: url('https://static.vecteezy.com/system/resources/thumbnails/011/565/769/small/artistic-seamless-pattern-with-drawn-swil-lines-abstract-organic-shape-repeatable-texture-loop-line-background-vector.jpg');
+   
+    background-repeat: no-repeat;
+    /* background-position: center center; */
+    background-size: cover;
+}
