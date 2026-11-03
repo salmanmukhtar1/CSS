@@ -1,0 +1,14 @@
+body{
+    /* font-family: 'Redaction 50', sans-serif; */
+}
+
+h1{
+    font-size: 100px;
+    font-style: italic;
+}
+
+    span{
+        font-weight: bold;
+        font-variant: small-caps;
+    }
+     
