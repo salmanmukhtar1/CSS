@@ -1,0 +1,11 @@
+div{
+    background-color: yellow;
+    margin: 2px;
+    display: inline;
+}
+
+span{
+    background-color: green;
+    margin: 2px;
+    display: block; 
+}

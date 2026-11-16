@@ -1,0 +1,32 @@
+div{
+    position: fixed;
+    width: 200px;
+    height: 200px;
+    border: solid 10px blue;
+    border-radius: 10px;
+}
+
+#first{
+    left: 0px;
+    top: 0px;
+  background-color: red;
+  z-index: 101;
+
+}
+
+#second{
+    left: 50px;
+    top: 90px;
+  background-color: green;
+  z-index: 100;
+}
+
+
+#third{
+    left: 100px;
+    top: 180px;
+  background-color: yellow;
+  z-index: 101;
+}    
+  
+}
